@@ -1,1 +1,1 @@
-print "This is an placeholder for real code"
+print "This is a placeholder for real code"
